@@ -1,4 +1,6 @@
-This is a biolerplate for basic React/CSS/Express setup that Sean made.
+## Augie Doggy's Tracker
+
+Tracks your dog's medications and vaccines
 
 create .env file in root directory
 
@@ -8,4 +10,3 @@ npm run build
 
 npm run dev and window should pop up at http://localhost:8080/
 
-Have fun making stuff!
